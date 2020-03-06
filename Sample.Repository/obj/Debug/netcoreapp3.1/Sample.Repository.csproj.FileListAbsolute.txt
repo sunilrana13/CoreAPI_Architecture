@@ -1,0 +1,15 @@
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.Repository.deps.json
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.Repository.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.Repository.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\obj\Debug\netcoreapp3.1\Sample.Repository.csprojAssemblyReference.cache
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\obj\Debug\netcoreapp3.1\Sample.Repository.AssemblyInfoInputs.cache
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\obj\Debug\netcoreapp3.1\Sample.Repository.AssemblyInfo.cs
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\obj\Debug\netcoreapp3.1\Sample.Repository.csproj.CopyComplete
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\obj\Debug\netcoreapp3.1\Sample.Repository.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\obj\Debug\netcoreapp3.1\Sample.Repository.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.Model.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Repository\bin\Debug\netcoreapp3.1\Sample.Model.pdb

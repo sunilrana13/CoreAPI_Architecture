@@ -1,0 +1,7 @@
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\bin\Debug\netcoreapp3.1\Sample.DataContract.deps.json
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.AssemblyInfoInputs.cache
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.AssemblyInfo.cs
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.pdb

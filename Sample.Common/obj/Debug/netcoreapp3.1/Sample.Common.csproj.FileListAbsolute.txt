@@ -1,0 +1,7 @@
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\bin\Debug\netcoreapp3.1\Sample.Common.deps.json
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\bin\Debug\netcoreapp3.1\Sample.Common.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\bin\Debug\netcoreapp3.1\Sample.Common.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.AssemblyInfoInputs.cache
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.AssemblyInfo.cs
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.pdb

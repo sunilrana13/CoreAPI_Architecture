@@ -1,0 +1,440 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj",
+        "projectName": "Sample.DataContract",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj",
+        "projectName": "Sample.Model",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj",
+        "projectName": "Sample.RepositoryContract",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj",
+        "projectName": "Sample.Repository",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj"
+              },
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj",
+        "projectName": "Sample.ServiceContract",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj",
+        "projectName": "Sample.Service",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
+              },
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj"
+              },
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj",
+        "projectName": "Sample.Web.API",
+        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj",
+        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj"
+              },
+              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj": {
+                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

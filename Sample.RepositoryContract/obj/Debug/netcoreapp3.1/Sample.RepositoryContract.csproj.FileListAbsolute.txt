@@ -1,0 +1,11 @@
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.deps.json
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.csprojAssemblyReference.cache
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.AssemblyInfoInputs.cache
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.AssemblyInfo.cs
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.csproj.CopyComplete
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.Model.dll
+C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.Model.pdb
