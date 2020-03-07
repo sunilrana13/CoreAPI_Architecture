@@ -5,3 +5,11 @@ C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\Core
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.AssemblyInfo.cs
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.dll
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\bin\Debug\netcoreapp3.1\Sample.DataContract.deps.json
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.AssemblyInfoInputs.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.AssemblyInfo.cs
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.DataContract\obj\Debug\netcoreapp3.1\Sample.DataContract.csprojAssemblyReference.cache

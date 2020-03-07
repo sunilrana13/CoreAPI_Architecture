@@ -1,4 +1,4 @@
-﻿using Sample.Model;
+﻿using Sample.DataContract;
 using Sample.RepositoryContract;
 using Sample.ServiceContract;
 using System;
@@ -13,7 +13,7 @@ namespace Sample.Service
         {
             _employeeRepository = employeeRepository;
         }
-        public List<EmployeeDTO> GetEmployee()
+        public List<Employee> GetEmployee()
         {
            return _employeeRepository.GetEmployee();
         }

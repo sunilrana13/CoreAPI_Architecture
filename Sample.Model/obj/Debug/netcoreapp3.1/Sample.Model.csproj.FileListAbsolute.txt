@@ -5,3 +5,11 @@ C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\Core
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.AssemblyInfo.cs
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.dll
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\bin\Debug\netcoreapp3.1\Sample.Model.deps.json
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\bin\Debug\netcoreapp3.1\Sample.Model.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\bin\Debug\netcoreapp3.1\Sample.Model.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.AssemblyInfoInputs.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.AssemblyInfo.cs
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Model.csprojAssemblyReference.cache

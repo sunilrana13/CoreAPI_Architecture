@@ -1,4 +1,4 @@
-﻿using Sample.Model;
+﻿using Sample.DataContract;
 using System;
 using System.Collections.Generic;
 
@@ -6,6 +6,6 @@ namespace Sample.RepositoryContract
 {
     public interface IEmployeeRepository
     {
-        List<EmployeeDTO> GetEmployee();
+        List<Employee> GetEmployee();
     }
 }

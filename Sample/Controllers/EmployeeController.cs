@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Sample.DataContract;
 using Sample.Model;
 using Sample.ServiceContract;
 
@@ -21,7 +22,7 @@ namespace Sample.Web.API.Controllers
        
         // GET: api/Employee
         [HttpGet]
-        public IEnumerable<EmployeeDTO> Get()
+        public IEnumerable<Employee> Get()
         {
             return _employeeService.GetEmployee();
         }

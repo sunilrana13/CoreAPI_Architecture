@@ -9,3 +9,14 @@ C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\Core
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.Model.dll
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.Model.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.deps.json
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.csprojAssemblyReference.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.AssemblyInfoInputs.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.AssemblyInfo.cs
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.csproj.CopyComplete
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.RepositoryContract\obj\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb

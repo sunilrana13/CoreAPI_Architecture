@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Sample.Repository;
 using Sample.RepositoryContract;
 using Sample.Service;
-using Sample.Service.Dependency;
 using Sample.ServiceContract;
 using System;
 using System.Collections.Generic;
@@ -16,7 +16,13 @@ namespace Sample.Web.API.Dependency
         public static void ServiceResolver(this IServiceCollection services)
         {
             services.AddTransient<IEmployeeService, EmployeeService>();
-            services.RepositoryResolver();
+           services.RepositoryResolver();
+        }
+
+        public static void RepositoryResolver(this IServiceCollection services)
+        {
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+           
         }
     }
 }

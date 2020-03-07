@@ -20,14 +20,9 @@
           "Sample.DataContract.dll": {}
         }
       },
-      "Sample.Model/1.0.0": {
-        "runtime": {
-          "Sample.Model.dll": {}
-        }
-      },
       "Sample.RepositoryContract/1.0.0": {
         "dependencies": {
-          "Sample.Model": "1.0.0"
+          "Sample.DataContract": "1.0.0"
         },
         "runtime": {
           "Sample.RepositoryContract.dll": {}
@@ -42,11 +37,6 @@
       "sha512": ""
     },
     "Sample.DataContract/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Sample.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

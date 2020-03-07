@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Sample.Model;
+using Sample.DataContract;
 
 namespace Sample.ServiceContract
 {
     public interface IEmployeeService
     {
-        List<EmployeeDTO> GetEmployee();
+        List<Employee> GetEmployee();
     }
 }

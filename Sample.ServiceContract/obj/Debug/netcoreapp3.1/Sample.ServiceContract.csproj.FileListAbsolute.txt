@@ -9,3 +9,14 @@ C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\Core
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.pdb
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.Model.dll
 C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\CoreAPI_Architecture\Sample\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.Model.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.ServiceContract.deps.json
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.ServiceContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.ServiceContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.csprojAssemblyReference.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.AssemblyInfoInputs.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.AssemblyInfo.cs
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.csproj.CopyComplete
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.pdb

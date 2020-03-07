@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Common\\Sample.Common.csproj": {}
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Common\\Sample.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Common\\Sample.Common.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Common\\Sample.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Common\\Sample.Common.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Common\\Sample.Common.csproj",
         "projectName": "Sample.Common",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Common\\Sample.Common.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Common\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Common\\Sample.Common.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj": {}
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample\\Sample.Web.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj",
         "projectName": "Sample.DataContract",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,25 +57,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj",
         "projectName": "Sample.Model",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -110,25 +114,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj",
         "projectName": "Sample.RepositoryContract",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -140,8 +146,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj"
               }
             }
           }
@@ -169,25 +175,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Repository\\Sample.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Repository\\Sample.Repository.csproj",
         "projectName": "Sample.Repository",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Repository\\Sample.Repository.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -199,11 +207,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.DataContract\\Sample.DataContract.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj"
               },
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
               }
             }
           }
@@ -231,25 +239,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj",
         "projectName": "Sample.ServiceContract",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -261,8 +271,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Model\\Sample.Model.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj"
               }
             }
           }
@@ -290,25 +300,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Service\\Sample.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Service\\Sample.Service.csproj",
         "projectName": "Sample.Service",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Service\\Sample.Service.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -320,14 +332,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj"
               },
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Repository\\Sample.Repository.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
               },
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj"
               }
             }
           }
@@ -340,12 +352,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -361,25 +367,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj": {
+    "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample\\Sample.Web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj",
+        "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample\\Sample.Web.API.csproj",
         "projectName": "Sample.Web.API",
-        "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\Sample.Web.API.csproj",
-        "packagesPath": "C:\\Users\\sunil.rana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample\\obj\\",
+        "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample\\Sample.Web.API.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunil.rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -391,11 +399,23 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.ServiceContract\\Sample.ServiceContract.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj"
               },
-              "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj": {
-                "projectPath": "C:\\Users\\sunil.rana\\Desktop\\smartData-.NET-Architecture-with-Angular-master\\CoreAPI_Architecture\\Sample\\Sample.Service\\Sample.Service.csproj"
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj"
+              },
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.RepositoryContract\\Sample.RepositoryContract.csproj"
+              },
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Repository\\Sample.Repository.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Repository\\Sample.Repository.csproj"
+              },
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.ServiceContract\\Sample.ServiceContract.csproj"
+              },
+              "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Service\\Sample.Service.csproj": {
+                "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Service\\Sample.Service.csproj"
               }
             }
           }
@@ -432,7 +452,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
