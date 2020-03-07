@@ -13,13 +13,13 @@ namespace Sample.Web.API.Dependency
 {
     public static class DependencyResolver
     {
-        public static void ServiceResolver(this IServiceCollection services)
+        public static void AddServiceResolver(this IServiceCollection services)
         {
             services.AddTransient<IEmployeeService, EmployeeService>();
-           services.RepositoryResolver();
+           services.AddRepositoryResolver();
         }
 
-        public static void RepositoryResolver(this IServiceCollection services)
+        public static void AddRepositoryResolver(this IServiceCollection services)
         {
             services.AddScoped<IEmployeeRepository, EmployeeRepository>();
            

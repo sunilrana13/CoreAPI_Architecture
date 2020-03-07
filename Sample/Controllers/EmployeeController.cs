@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Sample.DataContract;
@@ -15,16 +16,18 @@ namespace Sample.Web.API.Controllers
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
-        public EmployeeController(IEmployeeService employeeService)
+        private readonly IMapper _mapper;
+        public EmployeeController(IEmployeeService employeeService, IMapper mapper)
         {
             _employeeService = employeeService;
+            _mapper = mapper;
         }
        
         // GET: api/Employee
         [HttpGet]
-        public IEnumerable<Employee> Get()
+        public IEnumerable<EmployeeDTO> Get()
         {
-            return _employeeService.GetEmployee();
+            return _mapper.Map<IEnumerable<EmployeeDTO>>(_employeeService.GetEmployee());
         }
 
         // GET: api/Employee/5

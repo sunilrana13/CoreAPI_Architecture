@@ -197,7 +197,6 @@ D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\bi
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\bin\Debug\netcoreapp3.1\Sample.ServiceContract.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\bin\Debug\netcoreapp3.1\Sample.Service.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.csprojAssemblyReference.cache
-D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.AssemblyInfoInputs.cache
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.AssemblyInfo.cs
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.RazorTargetAssemblyInfo.cache
@@ -206,3 +205,6 @@ D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\ob
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\staticwebassets\Sample.Web.API.StaticWebAssets.xml
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample\obj\Debug\netcoreapp3.1\Sample.Web.API.MvcApplicationPartsAssemblyInfo.cache

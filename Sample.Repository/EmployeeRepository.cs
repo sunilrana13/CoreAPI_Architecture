@@ -15,7 +15,8 @@ namespace Sample.Repository
         }
         public List<Employee> GetEmployee()
         {
-            throw new NotImplementedException();
+            return new List<Employee> { new Employee { EmployeeId = 1, EmployeeName = "Sunil Rana", EmailAddress = "sunil@gmail.com", EmployeeCode = "1001", Location = "Chandigarh" },
+            new Employee { EmployeeId = 2, EmployeeName = "Anil Rana", EmailAddress = "anil@gmail.com", EmployeeCode = "1002", Location = "Chandigarh" } };
         }
     }
 }
