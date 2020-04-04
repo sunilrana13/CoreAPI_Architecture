@@ -12,8 +12,8 @@ C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\Core
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.ServiceContract.deps.json
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.ServiceContract.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.ServiceContract.pdb
-D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
-D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.Dtos.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\bin\Debug\netcoreapp3.1\Sample.Dtos.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.csprojAssemblyReference.cache
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.AssemblyInfoInputs.cache
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.ServiceContract\obj\Debug\netcoreapp3.1\Sample.ServiceContract.AssemblyInfo.cs

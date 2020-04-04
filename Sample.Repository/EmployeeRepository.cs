@@ -1,5 +1,5 @@
 ﻿using Sample.DataContract;
-
+using Sample.Repository.Data;
 using Sample.RepositoryContract;
 using System;
 using System.Collections.Generic;
@@ -9,9 +9,10 @@ namespace Sample.Repository
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-        public EmployeeRepository()
+        private readonly DBObjectContext _context;
+        public EmployeeRepository(DBObjectContext context)
         {
-
+            _context = context;
         }
         public List<Employee> GetEmployee()
         {

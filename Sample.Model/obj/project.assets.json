@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj",
-      "projectName": "Sample.Model",
-      "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Model.csproj",
+      "projectUniqueName": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Dtos.csproj",
+      "projectName": "Sample.Dtos",
+      "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Dtos.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
       "outputPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\obj\\",
       "projectStyle": "PackageReference",

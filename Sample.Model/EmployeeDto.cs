@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sample.Model
+namespace Sample.Dtos
 {
     public class EmployeeDTO
     {

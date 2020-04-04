@@ -5,7 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.Common\Sample.Common.csproj" />
     <ProjectReference Include="..\Sample.DataContract\Sample.DataContract.csproj" />
+    <ProjectReference Include="..\Sample.Model\Sample.Dtos.csproj" />
     <ProjectReference Include="..\Sample.RepositoryContract\Sample.RepositoryContract.csproj" />
     <ProjectReference Include="..\Sample.ServiceContract\Sample.ServiceContract.csproj" />
   </ItemGroup>

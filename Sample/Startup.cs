@@ -7,10 +7,12 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Sample.Repository.Data;
 using Sample.Web.API.Dependency;
 namespace Sample.Web.API
 {
@@ -27,6 +29,8 @@ namespace Sample.Web.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<DBObjectContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+
             services.AddServiceResolver();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         }

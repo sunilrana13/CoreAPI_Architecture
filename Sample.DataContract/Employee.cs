@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Sample.DataContract
 {
-    public class Employee
+    public class Employee: BaseEntity
     {
         [Key]
         public int EmployeeId { get; set; }

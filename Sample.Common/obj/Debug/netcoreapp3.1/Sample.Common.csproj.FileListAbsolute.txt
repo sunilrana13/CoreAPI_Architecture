@@ -12,4 +12,3 @@ D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Co
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.AssemblyInfo.cs
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.pdb
-D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Common\obj\Debug\netcoreapp3.1\Sample.Common.csprojAssemblyReference.cache

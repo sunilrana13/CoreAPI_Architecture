@@ -6,7 +6,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Sample.DataContract;
-using Sample.Model;
+using Sample.Dtos;
 using Sample.ServiceContract;
 
 namespace Sample.Web.API.Controllers
@@ -16,18 +16,18 @@ namespace Sample.Web.API.Controllers
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
-        private readonly IMapper _mapper;
-        public EmployeeController(IEmployeeService employeeService, IMapper mapper)
+       
+        public EmployeeController(IEmployeeService employeeService)
         {
             _employeeService = employeeService;
-            _mapper = mapper;
+           
         }
        
         // GET: api/Employee
         [HttpGet]
-        public IEnumerable<EmployeeDTO> Get()
+        public ActionResult<IEnumerable<EmployeeDTO>> Get()
         {
-            return _mapper.Map<IEnumerable<EmployeeDTO>>(_employeeService.GetEmployee());
+            return Ok(_employeeService.GetEmployee());
         }
 
         // GET: api/Employee/5

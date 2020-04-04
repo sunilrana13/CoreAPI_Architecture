@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Sample.DataContract;
-using Sample.Model;
+using Sample.Dtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;

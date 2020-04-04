@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Sample.DataContract/1.0.0": {
+      "Sample.Dtos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Sample.DataContract.dll": {}
+          "bin/placeholder/Sample.Dtos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Sample.DataContract.dll": {}
+          "bin/placeholder/Sample.Dtos.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Sample.DataContract/1.0.0": {
+    "Sample.Dtos/1.0.0": {
       "type": "project",
-      "path": "../Sample.DataContract/Sample.DataContract.csproj",
-      "msbuildProject": "../Sample.DataContract/Sample.DataContract.csproj"
+      "path": "../Sample.Model/Sample.Dtos.csproj",
+      "msbuildProject": "../Sample.Model/Sample.Dtos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Sample.DataContract >= 1.0.0"
+      "Sample.Dtos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -59,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj": {
-              "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.DataContract\\Sample.DataContract.csproj"
+            "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Dtos.csproj": {
+              "projectPath": "D:\\Project Helper\\Architecture\\DotnetCoreApi_2019\\CoreAPI_Architecture\\Sample.Model\\Sample.Dtos.csproj"
             }
           }
         }

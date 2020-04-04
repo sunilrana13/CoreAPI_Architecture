@@ -5,16 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sample.DataContract\Sample.DataContract.csproj" />
-    <ProjectReference Include="..\Sample.Model\Sample.Model.csproj" />
-    <ProjectReference Include="..\Sample.RepositoryContract\Sample.RepositoryContract.csproj" />
     <ProjectReference Include="..\Sample.Repository\Sample.Repository.csproj" />
-    <ProjectReference Include="..\Sample.ServiceContract\Sample.ServiceContract.csproj" />
     <ProjectReference Include="..\Sample.Service\Sample.Service.csproj" />
   </ItemGroup>
 

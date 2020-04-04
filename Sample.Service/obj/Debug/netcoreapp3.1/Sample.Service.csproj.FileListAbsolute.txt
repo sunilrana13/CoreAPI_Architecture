@@ -20,10 +20,14 @@ C:\Users\sunil.rana\Desktop\smartData-.NET-Architecture-with-Angular-master\Core
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Service.deps.json
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Service.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Service.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Common.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.DataContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Dtos.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.dll
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.ServiceContract.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Common.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.DataContract.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.Dtos.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.RepositoryContract.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\bin\Debug\netcoreapp3.1\Sample.ServiceContract.pdb
 D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Service\obj\Debug\netcoreapp3.1\Sample.Service.csprojAssemblyReference.cache

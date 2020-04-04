@@ -1,0 +1,7 @@
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\bin\Debug\netcoreapp3.1\Sample.Dtos.deps.json
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\bin\Debug\netcoreapp3.1\Sample.Dtos.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\bin\Debug\netcoreapp3.1\Sample.Dtos.pdb
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Dtos.AssemblyInfoInputs.cache
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Dtos.AssemblyInfo.cs
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Dtos.dll
+D:\Project Helper\Architecture\DotnetCoreApi_2019\CoreAPI_Architecture\Sample.Model\obj\Debug\netcoreapp3.1\Sample.Dtos.pdb

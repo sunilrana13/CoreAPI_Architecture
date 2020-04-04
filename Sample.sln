@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.Common", "Sample.Com
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.DataContract", "Sample.DataContract\Sample.DataContract.csproj", "{8617C8BA-ED22-40DD-839E-80D9872F88B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Model", "Sample.Model\Sample.Model.csproj", "{E16F675D-3796-4DE6-96E7-1EB6B7D1B42A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.Dtos", "Sample.Model\Sample.Dtos.csproj", "{E16F675D-3796-4DE6-96E7-1EB6B7D1B42A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
